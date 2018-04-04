@@ -1,0 +1,4 @@
+python_gmaps==0.3.1
+gmplot==1.2.0
+TwitterSearch==1.0.2
+gmaps==0.7.3

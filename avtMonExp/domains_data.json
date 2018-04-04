@@ -1,0 +1,36 @@
+{
+  "domains": [
+    {
+      "domain":"Wireless_Communications",
+      "tags":{
+        "Wireless":5,
+        "Infrared":3,
+        "Bluetooth":4,
+        "Wi-Fi":4,
+        "ZigBee":4,
+        "Cellural":5,
+        "Mobile":5,
+        "Satellite":4
+       },
+      "phrases":{
+        "Wireless Networking":4,
+        "Wireless Communication Networks":5,
+        "Wireless Communication Systems":5
+      },
+      "expert_keywords":{
+        "Expert":5,
+        "Leader":4,
+        "Engineer":4,
+        "CEO":5,
+        "CTO":5,
+        "PhD":4,
+        "Magazine":3,
+        "Journalist":4,
+        "Reviewer":4,
+        "Analyst":5,
+        "Blogger":5,
+        "Reseacher":5
+      }
+    }
+  ]
+}
