@@ -5,7 +5,7 @@
 
 The `avtMonExp` project on Python 3 for searching experts of a given domain in Twitter.
 
-Work on the `avtMonExp` project was started in August 2016. This project implements some ideas from the `E-Government Monitor` project.
+Work on the `avtMonExp` project was started in August 2016. This project implements some ideas from the [E-Government Monitor](https://software.avt.dn.ua/blog-news-a-v-t-software-continues-to-work-on-e-government-monitor-project/) project.
 
 The `avtMonExp` project includes the following main stages:
 1. Search and retrieve data based on pre-defined criteria from Twitter.
